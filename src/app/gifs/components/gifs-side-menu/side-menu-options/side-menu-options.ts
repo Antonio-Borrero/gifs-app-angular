@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { RouterLink, RouterLinkActive } from "@angular/router";
+import { GifsService } from 'src/app/gifs/services/gifs.service';
 
 interface MenuOptions {
   icon: string,
@@ -28,4 +29,6 @@ export class SideMenuOptions {
       route: '/dashboard/search'
     }
   ]
+
+  history = inject(GifsService)
 }
