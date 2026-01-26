@@ -59,7 +59,7 @@ Learning project built with Angular that allows you to search, view, and manage 
 
 ## Build
 
-To build the production version::
+To build the production version:
 
 ```bash
 ng build
