@@ -1,59 +1,66 @@
+English | [Español](README.es.md)
+
 # GifsApp
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.2.
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)](https://angular.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-## Development server
+Learning project built with Angular that allows you to search, view, and manage GIFs using the Giphy Developers API.
 
-To start a local development server, run:
+## Technologies
 
-```bash
-ng serve
-```
+- Angular 21
+- TypeScript
+- HTML / CSS
+- Giphy Developers API
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## Installation
 
-## Code scaffolding
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Antonio-Borrero/Gifs-app-Angular.git
+   ```
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+2. Enter the project folder:
+   ```bash
+   cd Gifs-app-Angular
+   ```
+   
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+   
+4. Run the app in development mode:
+   ```bash
+   ng serve
+   ```
 
-```bash
-ng generate component component-name
-```
+5. Open in browser:
+   - Go to `http://localhost:4200/`.
+   - The app will automatically reload when any file is modified
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+> ⚠️ **Note:** Create a `src/environments/environment.ts` file following `environment.example.ts` to add your Giphy API key. **Do not commit your API key to the repository.**
 
-```bash
-ng generate --help
-```
+## Features
 
-## Building
+- Search GIFs using the Giphy API
+- View trending GIFs
+- Save searched GIFs
+- Multi-page and component management in Angular
 
-To build the project run:
+## Learning Outcomes
+
+- Practicing Angular and TypeScript
+- Consuming external APIs
+- Handling components, services, and routing
+- Best practices with `.gitignore` and API key management
+
+## Build
+
+To build the production version::
 
 ```bash
 ng build
 ```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
