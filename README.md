@@ -19,12 +19,12 @@ Learning project built with Angular that allows you to search, view, and manage 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Antonio-Borrero/Gifs-app-Angular.git
+   git clone https://github.com/Antonio-Borrero/gifs-app-angular.git
    ```
 
 2. Enter the project folder:
    ```bash
-   cd Gifs-app-Angular
+   cd gifs-app-angular
    ```
    
 3. Install dependencies:
