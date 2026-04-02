@@ -19,12 +19,12 @@ Aplicación de aprendizaje hecha en Angular que permite buscar, ver y gestionar 
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/Antonio-Borrero/Gifs-app-Angular.git
+   git clone https://github.com/Antonio-Borrero/gifs-app-angular.git
    ```
    
 2. Entrar a la carpeta del proyecto:
    ```bash
-   cd Gifs-app-Angular
+   cd gifs-app-angular
    ```
    
 3. Instalar dependencias:
