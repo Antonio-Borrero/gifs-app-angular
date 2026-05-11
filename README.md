@@ -10,7 +10,7 @@ English | [Español](README.es.md)
 
 <br>
 
-This is a **learning and practice project** built with **Angular 21** to explore dynamic data handling and API consumption. The application allows users to search, discover, and manage GIFs in real-time, focusing on state persistence and modular component architecture.
+This is a **learning and practice project** built with **Angular** as part of the **DevTalles (Fernando Herrera) Angular course** to explore dynamic data handling and API consumption. The application allows users to search, discover, and manage GIFs in real-time, focusing on state persistence and modular component architecture.
 
 <br>
 
