@@ -10,7 +10,7 @@ Español | [English](README.md)
 
 <br>
 
-Este es un **proyecto de aprendizaje y práctica** construido con **Angular 21** para explorar el manejo de datos dinámicos y el consumo de APIs. La aplicación permite a los usuarios buscar, descubrir y gestionar GIFs en tiempo real, centrándose en la persistencia de estado y la arquitectura de componentes modulares.
+Este es un **proyecto de aprendizaje y práctica** construido con **Angular 21** como parte del **curso de Angular de DevTalles (Fernando Herrera)** para explorar el manejo de datos dinámicos y el consumo de APIs. La aplicación permite a los usuarios buscar, descubrir y gestionar GIFs en tiempo real, centrándose en la persistencia de estado y la arquitectura de componentes modulares.
 
 <br>
 
